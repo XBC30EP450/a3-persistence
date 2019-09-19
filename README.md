@@ -1,5 +1,4 @@
-Nyankotracker
-(https://a3-javiermarcos.glitch.me/)
+Javier Marcos - Nyankotracker - https://a3-javiermarcos.glitch.me/
 
 This is an application tailored for players of the mobile game The Battlecats. The game in question
 features a gacha mechanic, which means that players will unlock a vast array of units as they play.
@@ -21,16 +20,15 @@ Filesync:			lowdb dependency
 Passport-local:		Allows implementation of local authentication strategies on Passport.
 Bcrypt:				Encryption middleware. Used to encrypt stored passwords.
 
-Technical achievements
+Technical achievements:
 1) Improved security through the implementation of the Helmet  middleware
 2) Implemented encryption, used to safeguard users' passwords
 3) Added the ability for users to delete their accounts
 
-Design achievements
+Design achievements:
 1) Improved the site's appearance with the Marx CSS template
 2) Provided a clean, expandable layout for users to look at their collection of units
-3) Added personality to the site by adding a function that displays comical text at random on each visit.
-   (A similar feature is found in the game this tool is based on)
+3) Added personality to the site by adding a function that displays comical text at random on each visit. (A similar feature is found in the game this tool is based on)
 
 Getting used to the different the required middleware posed quite the challenge, especially figuring
 out how to get passport up and running. On top of that, I am still getting the hang of properly using

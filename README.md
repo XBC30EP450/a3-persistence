@@ -40,6 +40,7 @@ The following is a list of all middleware used:
    (A similar feature is found in the game this tool is based on).</li>
 </ol>
 
+<h2>Design Process</h2>
 
 <p>
 Getting used to the different the required middleware posed quite the challenge, especially figuring

@@ -26,15 +26,19 @@ The following is a list of all middleware used:
 </p>
 
 <h2>Technical Technical achievements:</h2>
-1) Improved security through the implementation of the Helmet  middleware
-2) Implemented encryption, used to safeguard users' passwords
-3) Added the ability for users to delete their accounts
+<ol>
+  <li>Improved security through the implementation of the Helmet  middleware.</li>
+  <li>Implemented encryption, used to safeguard users' passwords.</li>
+  <li>Added the ability for users to delete their accounts.</li>
+</ol>
 
 <h2>Design achievements</h2>
-1) Improved the site's appearance with the Marx CSS template
-2) Provided a clean, expandable layout for users to look at their collection of units
-3) Added personality to the site by adding a function that displays comical text at random on each visit.
-   (A similar feature is found in the game this tool is based on)
+<ol>
+<li>Improved the site's appearance with the Marx CSS template.</li>
+<li>Provided a clean, expandable layout for users to look at their collection of units.</li>
+<li>Added personality to the site by adding a function that displays comical text at random on each visit.
+   (A similar feature is found in the game this tool is based on).</li>
+</ol>
 
 
 <p>

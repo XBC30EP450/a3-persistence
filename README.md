@@ -13,16 +13,18 @@ Entering the URL "https://a3-javiermarcos.glitch.me/gimmethegoods" will prompt t
 provide all data currently stored in the database.
 
 The following is a list of all middleware used:
-  <b>Passport:</b> 			Authentication middleware
-  <b>Cookie-Parser:</b> Facilitates accessing cookies.  Passport dependency.
-  <b>Body-Parser:</b>		Facilitates sending and receiving JSON objects
-  <b>Express-Session:</b>	Allows keeping track of user sessions. Passport dependency.
-  <b>Helmet:</b>			A collection of 13 middleware aimed to enhance security
-  <b>Morgan:</b>			Shows incoming requests in the server console. Used for debugging
-  <b>lowdb:</b>				Allows creation and management of persistent databases
-  <b>Filesync:</b>			lowdb dependency
-  <b>Passport-local:</b>		Allows implementation of local authentication strategies on Passport.
-  <b>Bcrypt:</b>				Encryption middleware. Used to encrypt stored passwords.
+<lu>
+  <li><b>Passport:</b> 			Authentication middleware.</li>
+  <li><b>Cookie-Parser:</b> Facilitates accessing cookies.  Passport dependency.</li>
+  <li><b>Body-Parser:</b>		Facilitates sending and receiving JSON objects.</li>
+  <li><b>Express-Session:</b>	Allows keeping track of user sessions. Passport dependency.</li>
+  <li><b>Helmet:</b>			A collection of 13 middleware aimed to enhance security.</li>
+  <li><b>Morgan:</b>			Shows incoming requests in the server console. Used for debugging.</li>
+  <li><b>lowdb:</b>				Allows creation and management of persistent databases.</li>
+  <li><b>Filesync:</b>			lowdb dependency.</li>
+  <li><b>Passport-local:</b>		Allows implementation of local authentication strategies on Passport.</li>
+  <li><b>Bcrypt:</b>				Encryption middleware. Used to encrypt stored passwords.</li>
+</lu>
 </p>
 
 <h2>Technical Technical achievements:</h2>
